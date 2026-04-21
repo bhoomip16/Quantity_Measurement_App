@@ -3,7 +3,7 @@ package com.apps.quantitymeasurement;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class QuantityMeasurementAppTest {
+public class QuantityMeasurementAppUC4Test {
 
     @Test
     public void testEquality_YardToYard_SameValue() {
